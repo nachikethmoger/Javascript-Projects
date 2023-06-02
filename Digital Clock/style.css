@@ -1,0 +1,11 @@
+body {
+    background-color: cornflowerblue;
+}
+
+.hour,
+.minute,
+.second {
+    background-color: chartreuse;
+    height: 50px;
+    width: 50px;
+}
